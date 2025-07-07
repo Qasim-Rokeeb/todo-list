@@ -30,7 +30,7 @@ This is Day 5 of my 30-Day React Relearning Journey. Today’s focus is:
 
 ## 📸 Preview
 
-![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/todo-list-/main/screenshot.png)
+![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/todo-list/main/screenshot.png)
 
 ---
 
