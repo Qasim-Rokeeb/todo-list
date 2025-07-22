@@ -128,7 +128,7 @@ export default function App() {
                 />
               ) : (
                 <span
-                  className={`flex-1 ${todo.done ? "line-through text-gray-500" : ""}`}
+                  className={`flex-1 text-white ${todo.done ? "line-through text-gray-500" : ""}`}
                 >
                   {todo.text}
                 </span>
